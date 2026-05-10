@@ -6,7 +6,7 @@ REST API dengan JWT Auth, CRUD Resource, dan Relational Model.
 
 ## Tech Stack
 
-- Laravel 11
+- Laravel 13
 - MySQL
 - JWT Auth (`tymon/jwt-auth`)
 - PHP 8.2+
