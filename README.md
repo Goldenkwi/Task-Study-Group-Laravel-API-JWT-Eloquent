@@ -1,4 +1,5 @@
-# Laravel Study Group API
+# Laravel Study Group API 
+# JSON import postman include in here so use it for test
 
 REST API dengan JWT Auth, CRUD Resource, dan Relational Model.
 
